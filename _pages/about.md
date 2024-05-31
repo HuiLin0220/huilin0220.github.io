@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://sites.northwestern.edu/ivpl/'>iVPL lab at Northwestern</a>
+subtitle: <a href='https://sites.northwestern.edu/ivpl/'>iVPL lab at the Department of Electrical and Computer Engineering
+at Northwestern University</a>
 
 
 profile:
