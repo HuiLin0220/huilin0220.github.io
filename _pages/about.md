@@ -19,5 +19,5 @@ latest_posts: False  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am currently a Ph.D. Candidate at iVPL lab at Northwestern University, with main research efforts on generative AI and multi-modal pre-training problems. My first two years were studying additive manufacturing. Previously, I got my master's degree from the Department of Mechanical Engineering, Huazhong University of Science and Technology, in 2019, studying federated learning and model robustness problems in computer vision. I received the B. Eng (honors) degree from Honors College,  Huazhong University of Science and Technology, in 2016.
+I am currently a Ph.D. Candidate at iVPL lab at Northwestern University, with main research efforts on XX. My first two years were studying additive manufacturing. Previously, I got my master's degree from the Department of Mechanical Engineering, Huazhong University of Science and Technology, in 2019, studying federated learning and model robustness problems in computer vision. I received the B. Eng (honors) degree from Honors College,  Huazhong University of Science and Technology, in 2016.
 
