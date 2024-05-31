@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Technological Institute M470</p>
+    <p>Tech M470</p>
     <p>2145 Sheridan Road</p>
     <p>Evanston, IL 60208</p>
 
