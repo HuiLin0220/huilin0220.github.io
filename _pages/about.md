@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Northwestern</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://sites.northwestern.edu/ivpl/'>iVPL lab at Northwestern</a>
+Ph.D. Candidate, 
+Department of Electrical and Computer Engineering
+Northwestern University
 
 profile:
   align: right
@@ -18,6 +21,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Ph.D. Candidate, iVPL lab, Departement of Electrical and Computer Engineering
+Ph.D. Candidate, iVPL lab
+Department of Electrical and Computer Engineering
 Northwestern University
-I am Hui
+
