@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://sites.northwestern.edu/ivpl/'> iVPL lab at the Department of Electrical and Computer Engineering at Northwestern University</a>
+subtitle: <a href='https://sites.northwestern.edu/ivpl/'> iVPL lab at at Northwestern University</a>
 
 
 profile:
@@ -19,7 +19,5 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Ph.D. Candidate, iVPL lab
-Department of Electrical and Computer Engineering
-Northwestern University
+I am currently a Ph.D. Candidate at iVPL lab at Northwestern University, with main research efforts on generative AI and multi-modal pre-training problems. Previously, I got my Ph.D degree from the Department of Computer Science and Engineering, The Chinese University of Hong Kong, studying the federated learning and model robustness problem in computer vision. I received the B. Eng (honors) degree from Chu Kochen Honors College, Zhejiang University in 2018.
 
