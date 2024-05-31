@@ -3,9 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://sites.northwestern.edu/ivpl/'>iVPL lab at Northwestern</a>
-Ph.D. Candidate, 
-Department of Electrical and Computer Engineering
-Northwestern University
+
 
 profile:
   align: right
