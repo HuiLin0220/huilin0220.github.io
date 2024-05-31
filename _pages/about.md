@@ -13,7 +13,7 @@ profile:
     <p>Tech M470</p>
     <p>2145 Sheridan Road</p>
     <p>Evanston, IL 60208</p>
-    <p> [CV](./assets/pdf/Hui_Lin_CV.pdf)
+    <p> [CV](/assets/pdf/Hui_Lin_CV.pdf)
     
 news: true  # includes a list of news items
 latest_posts: False  # includes a list of the newest posts
