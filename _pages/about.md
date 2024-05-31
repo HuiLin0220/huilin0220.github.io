@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://sites.northwestern.edu/ivpl/'> iVPL lab at at Northwestern University</a>
+subtitle: <a href='https://sites.northwestern.edu/ivpl/'> iVPL lab, Northwestern University</a>
 
 
 profile:
