@@ -6,7 +6,7 @@ description: Constructing
 nav: true
 nav_order: 3
 horizontal: false
-display_categories: [work]
+display_categories: [fun]
 ---
 
 <!-- pages/projects.md -->
