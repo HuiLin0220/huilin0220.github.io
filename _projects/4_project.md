@@ -1,8 +1,8 @@
 ---
 layout: page
-title: life 1
+title: run
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/frisbee.jpg
 importance: 1
 category: fun
 
