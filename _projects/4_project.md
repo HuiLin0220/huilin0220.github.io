@@ -1,7 +1,7 @@
 ---
 layout: page
 title: run
-description: a project with a background image
+description: run with freedom
 img: assets/img/frisbee.JPEG
 importance: 2
 category: fun
