@@ -2,7 +2,7 @@
 layout: page
 title: life
 permalink: /life/
-description: Constructing
+description: Have fun every day
 nav: true
 nav_order: 3
 horizontal: false
