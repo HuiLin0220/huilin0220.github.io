@@ -8,5 +8,4 @@ category: fun
 
 ---
 
-XXXXX
 
