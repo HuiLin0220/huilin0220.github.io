@@ -4,7 +4,7 @@ title: life
 permalink: /life/
 description: Constructing
 nav: true
-nav_order: 1
+nav_order: 4
 display_categories: [Run]
 horizontal: false
 ---
