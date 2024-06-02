@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pet
-description: a project with a background image
+description: Klein and Teki
 img: assets/img/pet.JPEG
 importance: 3
 category: fun
