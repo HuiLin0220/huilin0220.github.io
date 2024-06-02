@@ -1,6 +1,6 @@
 ---
 layout: page
-title: run
+title: frisbee
 description: let's fly
 img: assets/img/frisbee.JPEG
 importance: 2
