@@ -2,7 +2,7 @@
 layout: page
 title: life
 permalink: /life/
-description: Have fun every day! Click each item to get more pictures!
+description: Have fun every day! Click to see more fun pictures!
 nav: true
 nav_order: 3
 horizontal: false
