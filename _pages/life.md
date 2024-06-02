@@ -5,7 +5,7 @@ permalink: /life/
 description: Constructing
 nav: true
 nav_order: 1
-display_categories: [work]
+display_categories: [Run]
 horizontal: false
 ---
 
