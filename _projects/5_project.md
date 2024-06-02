@@ -3,7 +3,7 @@ layout: page
 title: pet
 description: Klein and Teki
 img: assets/img/pet.JPEG
-importance: 3
+importance: 2
 category: fun
 ---
 
