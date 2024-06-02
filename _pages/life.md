@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: life
 permalink: /projects/
 description: Constructing
 nav: true
