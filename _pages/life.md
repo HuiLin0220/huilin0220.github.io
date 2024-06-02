@@ -1,7 +1,7 @@
 ---
 layout: page
 title: life
-permalink: /
+permalink: /life/
 description: Constructing
 nav: true
 nav_order: 1
