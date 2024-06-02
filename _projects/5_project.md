@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 5
+title: pet
 description: a project with a background image
 img: assets/img/pet.JPEG
 importance: 3
