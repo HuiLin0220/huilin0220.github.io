@@ -24,5 +24,5 @@ I am a Ph.D. candidate at the iVPL lab at Northwestern University, supervised by
 
 Previously, I obtained a master's degree in Mechanical Engineering from Huazhong University of Science and Technology (HUST) in 2019, supervised by <a href = 'http://english.mse.hust.edu.cn/info/1081/2036.htm'> Prof. Bin Li </a> and <a href = 'https://xwcv.github.io/'> Prof. Xinggang Wang</a>. I received a Bachelor's degree in Materials Processing and Control Engineering from Qiming College, HUST, in 2016.
 
-[Hui Lin's resume](../assets/pdf/Hui_Lin_CV_medical.pdf).
+[Short resume](../assets/pdf/Hui_Lin_CV_medical.pdf)
 
