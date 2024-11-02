@@ -20,11 +20,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate at the iVPL lab at Northwestern University, supervised by <a href = 'https://scholar.google.com/citations?hl=en&user=aucB85kAAAAJ'> Prof. Aggelos Katsaggelos</a> and <a href = 'https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=34612'> Prof. Daniel Kim </a>. My research focuses on deep learning and <font color=BLUE> computer vision </font> -based detection, segmentation, and generation in manufacturing and medical imaging. 
+I am a Ph.D. candidate at the iVPL lab at Northwestern University, supervised by <a href = 'https://scholar.google.com/citations?hl=en&user=aucB85kAAAAJ'> Prof. Aggelos Katsaggelos</a> and <a href = 'https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=34612'> Prof. Daniel Kim </a>. My research focuses on deep learning and <font color=BLUE> computer vision </font> -based classification, detection, segmentation, and generation in manufacturing and medical imaging. 
 
-My first two years were spent studying automatic defect detection and thermal prediction during additive manufacturing; then, I worked on organ segmentation and <font color=BLUE> unsupervised domain adaptation</font> in MRI, CT, OCT, X-ray, etc. I am proficient in RNN, GRU, GNN, GAN, Transformer, etc.
+My first two years were spent studying automatic defect detection and thermal prediction during additive manufacturing; then, I worked on segmentation and <font color=BLUE> unsupervised domain adaptation</font> in MRI, CT, OCT, X-ray, etc. I am proficient in RNN, GRU, GNN, GAN, Transformer, etc.
 
 Previously, I obtained a master's degree in Mechanical Engineering from Huazhong University of Science and Technology (HUST) in 2019, supervised by <a href = 'http://english.mse.hust.edu.cn/info/1081/2036.htm'> Prof. Bin Li </a> and <a href = 'https://xwcv.github.io/'> Prof. Xinggang Wang</a>. I received a Bachelor's degree in Materials Processing and Control Engineering from Qiming College, HUST, in 2016.
 
-[Short resume](../assets/pdf/Hui_Lin_CV_medical.pdf)
+[Short resume](../assets/pdf/Hui_Lin_CV.pdf)
 
