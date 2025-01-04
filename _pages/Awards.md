@@ -1,8 +1,8 @@
 ---
 layout: page
-title: life
-permalink: /life/
-description: Have fun every day! Click to see more fun pictures!
+title: Awards
+permalink: /Awards/
+description:
 nav: true
 nav_order: 3
 horizontal: false
