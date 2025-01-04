@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 4
 horizontal: false
-display_categories: [fun]
+display_categories: [awards]
 ---
 
 <!-- pages/projects.md -->
