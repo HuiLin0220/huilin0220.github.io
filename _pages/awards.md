@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Awards
-permalink: /Awards/
+title: awards
+permalink: /awards/
 description:
 nav: true
 nav_order: 4
