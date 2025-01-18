@@ -1,20 +1,21 @@
 FROM bitnami/minideb:latest
 
-Label MAINTAINER Amir Pourmand
+LABEL MAINTAINER="Amir Pourmand"
 
-RUN apt-get update -y
+# Update and install essential dependencies
+RUN apt-get update -y && \
+    apt-get install --no-install-recommends -y \
+    locales git build-essential zlib1g-dev libssl-dev libreadline-dev libyaml-dev \
+    libxml2-dev libxslt1-dev libcurl4-openssl-dev libffi-dev imagemagick python3-pip && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
 
-# add locale
-RUN apt-get -y install locales
-# Set the locale
+# Configure locales
 RUN sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen && \
     locale-gen
 ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US:en
 ENV LC_ALL en_US.UTF-8
-
-# add ruby and jekyll
-
 
 # Install ruby-build
 RUN git clone https://github.com/rbenv/ruby-build.git /tmp/ruby-build && \
@@ -27,29 +28,28 @@ RUN ruby-build 3.1.4 /usr/local/ruby-3.1.4
 # Add Ruby to the PATH
 ENV PATH="/usr/local/ruby-3.1.4/bin:$PATH"
 
-# Mark the Ruby installation as complete (optional if using workflows)
+# Verify Ruby installation
 RUN ruby --version && gem --version
 
-RUN apt-get install imagemagick -y
-
-# install python3 and jupyter
-RUN apt-get install python3-pip -y
-RUN python3 -m pip install jupyter --break-system-packages
-
-# install jekyll and dependencies
+# Install Jekyll and Bundler
 RUN gem install jekyll bundler
 
-RUN mkdir /srv/jekyll
+# Install Python and Jupyter
+RUN python3 -m pip install --no-cache-dir jupyter --break-system-packages
 
+# Set up Jekyll working directory
+RUN mkdir -p /srv/jekyll
 ADD Gemfile /srv/jekyll
-
 WORKDIR /srv/jekyll
 
+# Install Jekyll dependencies using Bundler
 RUN bundle install
 
 # Set Jekyll environment
 ENV JEKYLL_ENV=production 
 
+# Expose port 8080 for the Jekyll server
 EXPOSE 8080
 
+# Command to run Jekyll server
 CMD ["/bin/bash", "-c", "rm -f Gemfile.lock && exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace"]
