@@ -14,7 +14,22 @@ ENV LANGUAGE en_US:en
 ENV LC_ALL en_US.UTF-8
 
 # add ruby and jekyll
-RUN apt-get install --no-install-recommends ruby-full build-essential zlib1g-dev -y
+
+
+# Install ruby-build
+RUN git clone https://github.com/rbenv/ruby-build.git /tmp/ruby-build && \
+    /tmp/ruby-build/install.sh && \
+    rm -rf /tmp/ruby-build
+
+# Use ruby-build to install Ruby (e.g., version 3.1.4)
+RUN ruby-build 3.1.4 /usr/local/ruby-3.1.4
+
+# Add Ruby to the PATH
+ENV PATH="/usr/local/ruby-3.1.4/bin:$PATH"
+
+# Mark the Ruby installation as complete (optional if using workflows)
+RUN ruby --version && gem --version
+
 RUN apt-get install imagemagick -y
 
 # install python3 and jupyter
