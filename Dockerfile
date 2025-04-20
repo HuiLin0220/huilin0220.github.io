@@ -8,6 +8,7 @@ RUN apt-get update -y && \
     locales \
     git \
     build-essential \
+    curl \
     zlib1g-dev \
     libssl-dev \
     libreadline-dev \
