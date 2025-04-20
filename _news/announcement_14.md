@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-
-I am doing a fulltime job at OPPO US Research Center for .
+I am starting a full-time position at the OPPO US Research Center, focusing on wrist PPG analysis for reliable hypertension risk screening.
