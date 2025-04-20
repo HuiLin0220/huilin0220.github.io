@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-I am doing a MLE internship at OPPO US Research Center for recommendation system design
+I am currently working as a Machine Learning Engineer intern at the OPPO US Research Center, contributing to the design of recommendation systems.
