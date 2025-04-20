@@ -9,7 +9,6 @@ RUN apt-get update -y && \
     locales \
     git \
     build-essential \
-    
     zlib1g-dev \
     libssl-dev \
     libreadline-dev \
@@ -36,8 +35,8 @@ RUN git clone https://github.com/rbenv/ruby-build.git /tmp/ruby-build && \
     rm -rf /tmp/ruby-build
 
 # Use ruby-build to install Ruby (version 3.1.4)
-# RUN ruby-build 3.1.4 /usr/local/ruby-3.1.4
-RUN bash -c "for i in {1..5}; do ruby-build 3.1.4 /usr/local/ruby-3.1.4 && break || sleep 5; done"
+RUN ruby-build 3.1.4 /usr/local/ruby-3.1.4
+# RUN bash -c "for i in {1..5}; do ruby-build 3.1.4 /usr/local/ruby-3.1.4 && break || sleep 5; done"
 
 # Add Ruby to the PATH environment variable
 ENV PATH="/usr/local/ruby-3.1.4/bin:$PATH"
