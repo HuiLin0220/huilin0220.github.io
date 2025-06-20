@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.innopeaktech.com/'> OPPO <a href='https://sites.northwestern.edu/ivpl/'> iVPL lab, Northwestern University</a>  </a>
+subtitle: <a href='https://www.innopeaktech.com/'> OPPO, <a href='https://sites.northwestern.edu/ivpl/'> iVPL lab, Northwestern University</a>  </a>
 
 
 
