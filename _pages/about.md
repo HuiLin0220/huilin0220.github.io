@@ -11,9 +11,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Tech M470</p>
-    <p>2145 Sheridan Road</p>
-    <p>Evanston, IL 60208</p>
+    <p>2479 E Bayshore Rd</p>
+    <p>Palo Alto, CA 94303 </p>
     
 news: true  # includes a list of news items
 latest_posts: False  # includes a list of the newest posts
@@ -22,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 #Senior Research Scientist at OPPO
 
-I am a Ph.D. candidate at the iVPL lab at Northwestern University, supervised by <a href = 'https://scholar.google.com/citations?hl=en&user=aucB85kAAAAJ'> Prof. Aggelos Katsaggelos</a> and <a href = 'https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=34612'> Prof. Daniel Kim</a>. My research focuses on deep learning and <font color=BLUE> computer vision </font>-based classification, detection, segmentation, and generation in manufacturing and medical imaging. 
+Ph.D. at the iVPL lab at Northwestern University, supervised by <a href = 'https://scholar.google.com/citations?hl=en&user=aucB85kAAAAJ'> Prof. Aggelos Katsaggelos</a> and <a href = 'https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=34612'> Prof. Daniel Kim</a>. My research focuses on deep learning and <font color=BLUE> computer vision </font>-based classification, detection, segmentation, and generation in manufacturing and medical imaging. 
 
 My first two years were spent studying automatic defect detection and thermal prediction during additive manufacturing; then, I worked on segmentation and <font color=BLUE> unsupervised domain adaptation</font> in MRI, CT, OCT, X-ray, etc. I am proficient in RNN, GRU, GNN, GAN, Transformer, etc.
 
