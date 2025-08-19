@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab
+title: iVPL Lab
 img: assets/img/lab.JPEG 
 importance: 1
 category: fun
