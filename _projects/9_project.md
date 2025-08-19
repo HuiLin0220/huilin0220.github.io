@@ -17,7 +17,6 @@ category: fun
     {% include figure.html path="assets/img/run3.jpg" title="Run 3" alt="Run 3" class="img-fluid rounded z-depth-1" loading="lazy" %}
   </div>
 </div>
-
 <!-- Row 2: single image centered -->
 <div class="row g-3 mt-3">
   <div class="col-12 col-md-6 offset-md-3">
