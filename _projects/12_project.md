@@ -2,7 +2,7 @@
 layout: page
 title: Gardening
 img: assets/img/garden.jpg 
-importance: 4
+importance: 7
 category: fun
 ---
 <div class="row">
