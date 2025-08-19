@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OPPO Summer Intern 2024
+title: OPPO
 img: assets/img/intern0.jpg 
 importance: 4
 category: fun
