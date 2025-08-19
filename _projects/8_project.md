@@ -43,7 +43,7 @@ category: fun
 
 <div class="row g-3">
   <div class="col-12 col-md-6 offset-md-3">
-    {% include figure image_path="{{ '/assets/img/knit10.jpg' | relative_url }}" alt="Knit 10" class="img-fluid rounded z-depth-1" loading="lazy" %}
+    {% include figure image_path="{{ '/assets/img/knit10.JPEG' | relative_url }}" alt="Knit 10" class="img-fluid rounded z-depth-1" loading="lazy" %}
   </div>
 </div>
 
