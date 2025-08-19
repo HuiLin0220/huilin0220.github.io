@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pet
-description: Klein and Teki
+description: Teki
 img: assets/img/pet.jpg
 importance: 2
 category: fun
