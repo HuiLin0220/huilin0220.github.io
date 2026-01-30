@@ -49,13 +49,25 @@ category: fun
 
 <div class="row g-3">
   <div class="col-12 col-md-6 offset-md-3">
+    {% include figure image_path="{{ '/assets/img/knit11.jpg' | relative_url }}" alt="Knit 11" class="img-fluid rounded z-depth-1" loading="lazy" %}
+  </div>
+</div>
+
+<div class="row g-3">
+  <div class="col-12 col-md-6 offset-md-3">
     {% include figure image_path="{{ '/assets/img/knit12.jpg' | relative_url }}" alt="Knit 12" class="img-fluid rounded z-depth-1" loading="lazy" %}
   </div>
 </div>
 
 <div class="row g-3">
   <div class="col-12 col-md-6 offset-md-3">
-    {% include figure image_path="{{ '/assets/img/knit14.jpg' | relative_url }}" alt="Knit 10" class="img-fluid rounded z-depth-1" loading="lazy" %}
+    {% include figure image_path="{{ '/assets/img/knit13.jpg' | relative_url }}" alt="Knit 13" class="img-fluid rounded z-depth-1" loading="lazy" %}
+  </div>
+</div>
+
+<div class="row g-3">
+  <div class="col-12 col-md-6 offset-md-3">
+    {% include figure image_path="{{ '/assets/img/knit14.jpg' | relative_url }}" alt="Knit 14" class="img-fluid rounded z-depth-1" loading="lazy" %}
   </div>
 </div>
 
