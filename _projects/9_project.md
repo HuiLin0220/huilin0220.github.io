@@ -39,8 +39,8 @@ category: fun
   </div>
 </div>
 
-<div class="row row-cols-1 row-cols-md-3 g-4 align-items-stretch">
-  <div class="col">
+<div class="row mt-4">
+  <div class="col-12 text-center">
     {% include figure.html path="/assets/img/run1.JPEG" alt="Run 1" class="fun-gallery-top rounded z-depth-1" loading="lazy" %}
   </div>
 </div>
