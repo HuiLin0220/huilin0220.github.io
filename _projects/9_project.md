@@ -7,13 +7,13 @@ category: fun
 ---
 <div class="row row-cols-1 row-cols-md-3 g-3">
   <div class="col">
-    {% include figure image_path="/assets/img/run1.jpg" alt="Run 1" class="img-fluid rounded z-depth-1" loading="lazy" %}
+    {% include figure.html image_path="/assets/img/run1.jpg" alt="Run 1" class="img-fluid rounded z-depth-1" loading="lazy" %}
   </div>
   <div class="col">
-    {% include figure image_path="/assets/img/run2.jpg" alt="Run 2" class="img-fluid rounded z-depth-1" loading="lazy" %}
+    {% include figure.html image_path="/assets/img/run2.jpg" alt="Run 2" class="img-fluid rounded z-depth-1" loading="lazy" %}
   </div>
   <div class="col">
-    {% include figure image_path="/assets/img/run3.jpg" alt="Run 3" class="img-fluid rounded z-depth-1" loading="lazy" %}
+    {% include figure.html image_path="/assets/img/run3.jpg" alt="Run 3" class="img-fluid rounded z-depth-1" loading="lazy" %}
   </div>
 </div>
 <div class="row g-3 mt-3">
