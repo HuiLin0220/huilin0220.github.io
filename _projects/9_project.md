@@ -25,13 +25,16 @@ category: fun
 
 <div class="row row-cols-1 row-cols-md-3 g-4 align-items-stretch">
   <div class="col">
-    {% include figure.html path="/assets/img/run1.JPEG" alt="Run 1" class="fun-gallery-top rounded z-depth-1" loading="lazy" %}
-  </div>
-  <div class="col">
     {% include figure.html path="/assets/img/run2.JPEG" alt="Run 2" class="fun-gallery-top rounded z-depth-1" loading="lazy" %}
   </div>
   <div class="col">
     {% include figure.html path="/assets/img/run3.JPEG" alt="Run 3" class="fun-gallery-top rounded z-depth-1" loading="lazy" %}
+  </div>
+</div>
+
+<div class="row row-cols-1 row-cols-md-3 g-4 align-items-stretch">
+  <div class="col">
+    {% include figure.html path="/assets/img/run1.JPEG" alt="Run 1" class="fun-gallery-top rounded z-depth-1" loading="lazy" %}
   </div>
 </div>
 
