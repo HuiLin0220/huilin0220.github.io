@@ -7,7 +7,7 @@ category: fun
 ---
 <div class="row row-cols-1 row-cols-md-3 g-3">
   <div class="col">
-    {% include figure.html path="{{ 'assets/img/knit1.JPEG' | relative_url }}" alt="Knit 1" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/knit1.JPEG" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col">
     {% include figure.html path="{{ 'assets/img/knit2.JPEG' | relative_url }}" alt="Knit 2" class="img-fluid rounded z-depth-1" %}
@@ -16,6 +16,7 @@ category: fun
     {% include figure.html path="{{ 'assets/img/knit3.JPEG' | relative_url }}" alt="Knit 3" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+
 
 <div class="row row-cols-1 row-cols-md-3 g-3">
   <div class="col">
