@@ -5,6 +5,32 @@ img: /assets/img/knitting.JPEG
 importance: 5
 category: fun
 ---
+<style>
+  .fun-gallery-top {
+    height: 120px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+
+  .fun-gallery-bottom {
+    max-width: 100px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .fun-gallery-bottom {
+    max-width: 100px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+</style>
+
+
+
 
 <div class="row row-cols-1 row-cols-md-3 g-3">
   <div class="col">
