@@ -14,16 +14,18 @@ category: fun
     {% include figure.html path="/assets/img/knit2.JPEG" alt="Knit 2" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col">
-    {% include figure.html path="/assets/img/knit3.JPEG" alt="Knit 3" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="/assets/img/knit5.JPEG" alt="Knit 5" class="img-fluid rounded z-depth-1" %}
   </div>
+  
 </div>
 
 <div class="row row-cols-1 row-cols-md-3 g-3">
   <div class="col">
     {% include figure.html path="/assets/img/knit4.JPEG" alt="Knit 4" class="img-fluid rounded z-depth-1" %}
   </div>
+  
   <div class="col">
-    {% include figure.html path="/assets/img/knit5.JPEG" alt="Knit 5" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="/assets/img/knit3.JPEG" alt="Knit 3" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col">
     {% include figure.html path="/assets/img/knit6.JPEG" alt="Knit 6" class="img-fluid rounded z-depth-1" %}
