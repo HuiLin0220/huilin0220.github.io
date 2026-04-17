@@ -21,6 +21,13 @@ category: fun
     display: block;
     margin: 0 auto;
   }
+
+  .fun-gallery-bottom {
+    max-width: 700px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
 </style>
 
 <div class="row row-cols-1 row-cols-md-3 g-4 align-items-stretch">
