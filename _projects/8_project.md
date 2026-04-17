@@ -63,4 +63,14 @@ category: fun
   <div class="col">
     {% include figure.html path="/assets/img/knit14.jpg" alt="Knit 14" class="knit-grid-img rounded z-depth-1" loading="lazy" %}
   </div>
+  <div class="col">
+    {% include figure.html path="/assets/img/knit15.jpg" alt="Knit 15" class="knit-grid-img rounded z-depth-1" loading="lazy" %}
+  </div>
+
+   <div class="col">
+    {% include figure.html path="/assets/img/knit16.jpg" alt="Knit 13" class="knit-grid-img rounded z-depth-1" loading="lazy" %}
+  </div>
+  <div class="col">
+    {% include figure.html path="/assets/img/knit17.jpg" alt="Knit 14" class="knit-grid-img rounded z-depth-1" loading="lazy" %}
+  </div>
 </div>
