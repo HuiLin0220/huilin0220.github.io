@@ -33,9 +33,12 @@ category: fun
 </div>
 
 <div class="row row-cols-1 row-cols-md-3 g-3">
-  <div class="col">
-    {% include figure.html path="/assets/img/knit7.JPEG" alt="Knit 7" class="img-fluid rounded z-depth-1" %}
+
+  <div class="col-12 col-md-6 offset-md-3">
+    {% include figure.html path="/assets/img/knit12.jpg" alt="Knit 12" class="img-fluid rounded z-depth-1" loading="lazy" %}
   </div>
+  
+  
   <div class="col">
     {% include figure.html path="/assets/img/knit8.JPEG" alt="Knit 8" class="img-fluid rounded z-depth-1" %}
   </div>
@@ -57,8 +60,8 @@ category: fun
 </div>
 
 <div class="row g-3">
-  <div class="col-12 col-md-6 offset-md-3">
-    {% include figure.html path="/assets/img/knit12.jpg" alt="Knit 12" class="img-fluid rounded z-depth-1" loading="lazy" %}
+ <div class="col">
+    {% include figure.html path="/assets/img/knit7.JPEG" alt="Knit 7" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
